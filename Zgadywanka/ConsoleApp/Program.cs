@@ -9,10 +9,15 @@ namespace ConsoleApp
             Console.WriteLine("Gra za duzo za malo!");
 
             //1. Komputer losuje
-            Random los = new Random(); // tworze objiekt typu Random
+            #region losowanie
+
+            var los = new Random(); // tworze objiekt typu Random
             int wylosowana = los.Next(1, 100+1);
+#if DEBUG
             Console.WriteLine(wylosowana);
+#endif
             Console.WriteLine("Wylosowalem liczbe od 1 do 100.\nOdgadnij ja!");
+            #endregion
 
             bool odgadniete = false;
             // dopoki nie odgadniete
