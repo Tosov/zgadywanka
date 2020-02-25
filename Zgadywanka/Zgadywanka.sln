@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{FE93BC07-2118-49AE-B412-6A7A356619BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{FE93BC07-2118-49AE-B412-6A7A356619BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraProceduralny", "GraProceduralny\GraProceduralny.csproj", "{326384AA-0F0E-4F82-B582-25AB0722AC7D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FE93BC07-2118-49AE-B412-6A7A356619BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE93BC07-2118-49AE-B412-6A7A356619BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE93BC07-2118-49AE-B412-6A7A356619BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{326384AA-0F0E-4F82-B582-25AB0722AC7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{326384AA-0F0E-4F82-B582-25AB0722AC7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{326384AA-0F0E-4F82-B582-25AB0722AC7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{326384AA-0F0E-4F82-B582-25AB0722AC7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

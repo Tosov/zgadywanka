@@ -6,7 +6,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Gra za duzo za malo!");
+            d
 
             //1. Komputer losuje
             #region losowanie
