@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp\Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraProceduralny", "GraProceduralny\GraProceduralny.csproj", "{326384AA-0F0E-4F82-B582-25AB0722AC7D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelGry", "ModelGry\ModelGry.csproj", "{54AE2B99-BD1E-4929-BF53-2F7A20B7FE74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{326384AA-0F0E-4F82-B582-25AB0722AC7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{326384AA-0F0E-4F82-B582-25AB0722AC7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{326384AA-0F0E-4F82-B582-25AB0722AC7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54AE2B99-BD1E-4929-BF53-2F7A20B7FE74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54AE2B99-BD1E-4929-BF53-2F7A20B7FE74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54AE2B99-BD1E-4929-BF53-2F7A20B7FE74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54AE2B99-BD1E-4929-BF53-2F7A20B7FE74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
